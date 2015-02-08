@@ -1,3 +1,7 @@
+### Update
+
+This is my repository for assignment2
+
 ### Introduction
 
 This second programming assignment will require you to write an R
